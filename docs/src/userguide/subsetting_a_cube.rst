@@ -333,7 +333,7 @@ after 1st January 2008.
 Cube Masking
 --------------
 
-
+.. _masking-from-shapefile:
 
 Masking from a shapefile
 ^^^^^^^^^^^^^^^^^^^^^^^^
